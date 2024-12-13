@@ -125,5 +125,4 @@ public class Book {
 		return "Book [id=" + id + ", name=" + name + ", price=" + price + ", authors=" + authors + ", isbn=" + isbn
 				+ ", publisher=" + publisher + ", publishedOn=" + publishedOn + "]";
 	}
-
 }

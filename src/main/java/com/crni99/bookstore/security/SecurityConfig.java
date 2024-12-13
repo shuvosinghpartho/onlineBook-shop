@@ -47,5 +47,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		// H2-Console enable
 		http.headers().frameOptions().disable();
 	}
-
 }
